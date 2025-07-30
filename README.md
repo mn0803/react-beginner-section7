@@ -1,2 +1,2 @@
-# react-beginner-section7.
+# react-beginner-section7
 Created with CodeSandbox
